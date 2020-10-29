@@ -1,0 +1,2 @@
+# Avec cette directive, on indique à Apache d'autoriser l'accès à ce répertoire
+allow from all
